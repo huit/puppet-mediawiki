@@ -8,6 +8,7 @@
 #
 # [*server_name*]      - the host name of the server
 # [*admin_email*]      - email address Apache will display when rendering error page
+# [*db_root_user*]     - username of admin mysql user
 # [*db_root_password*] - password for mysql root user
 # [*doc_root*]         - the DocumentRoot directory used by Apache
 # [*tarball_url*]      - the url to fetch the mediawiki tar archive
